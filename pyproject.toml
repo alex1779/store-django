@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mysite"
+name = "new-site"
 version = "0.1.0"
 description = ""
 authors = ["alex1779 <alex1779@gmail.com>"]
@@ -13,6 +13,7 @@ psycopg2-binary = "^2.9.9"
 whitenoise = {extras = ["brotli"], version = "^6.6.0"}
 gunicorn = "^21.2.0"
 pillow = "^10.1.0"
+django-crispy-forms = "^2.1"
 
 
 [build-system]
