@@ -127,7 +127,7 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
-
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 
 # Default primary key field type
@@ -148,12 +148,6 @@ EMAIL_HOST_USER = "alex1779@gmail.com"
 EMAIL_HOST_PASSWORD = "BuloneriaMecfa2507"
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
-
-
-
-
-
-
 
 CRISPY_TEMPLATE_PACK = 'bootstrap5'
 
