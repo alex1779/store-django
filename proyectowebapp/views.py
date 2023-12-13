@@ -7,7 +7,7 @@ def home(request):
 
     carro = Carro(request)
 
-    return render(request, 'ProyectoWebApp/home.html')
+    return render(request, 'proyectowebapp/home.html')
 
 
 
