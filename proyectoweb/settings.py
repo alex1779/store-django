@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ccp(v=j##_f_pdfd(=i9xaf+-aqc^%@x-rz67d*c%g2p&_+-27
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['service-new-2mtd.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
