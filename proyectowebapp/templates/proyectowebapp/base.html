@@ -28,11 +28,11 @@
     
     {% if user.is_authenticated %}
     
-    Hola {{ user.username }} &nbsp; &nbsp; <a href="{% url 'cerrar_sesion' %}" style="color: white;">Cerrar Sesion</a>
+    Hola {{ user.username }} &nbsp; &nbsp; <a href="{% url 'cerrar_sesion' %}" style="color: gray;">Cerrar Sesion</a>
     
     {% else %}
 
-    <a href="{% url 'loguear' %}" style="color: white;">Login</a> &nbsp; &nbsp; <a href="{% url 'Autenticacion' %}" style="color: white;">Registrate</a>
+    <a href="{% url 'loguear' %}" style="color: gray;">Login</a> &nbsp; &nbsp; <a href="{% url 'Autenticacion' %}" style="color: gray;">Registrate</a>
 
     {% endif %}
 
