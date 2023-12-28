@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ProyectoWeb"
+name = "proyectoweb"
 version = "0.1.0"
 description = ""
 authors = ["alex1779 <alex1779@gmail.com>"]
