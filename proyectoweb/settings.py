@@ -117,10 +117,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.2/howto/static-files/
 STATIC_ROOT = os.path.join(BASE_DIR, 'proyectowebapp/')
 
-STATIC_URL = '/static/'
+STATIC_URL = '/proyectowebapp/'
 
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "proyectowebapp/static/"),
+    os.path.join(BASE_DIR, "static/"),
 )
 
 # Following settings only make sense on production and may break development environments.
