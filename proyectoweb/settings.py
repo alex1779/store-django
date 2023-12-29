@@ -119,9 +119,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 STATIC_URL = 'static'
 
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, "static/"),
-)
+STATICFILES_DIRS = []
 
 # Following settings only make sense on production and may break development environments.
 if not DEBUG:
