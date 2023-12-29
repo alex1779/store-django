@@ -118,7 +118,7 @@ USE_TZ = True
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'proyectowebapp/static')
 
-STATIC_URL = os.path.join(BASE_DIR, 'proyectowebapp/static')
+STATIC_URL = os.path.join(BASE_DIR, 'proyectowebapp/static/')
 
 STATICFILES_DIRS = []
 
