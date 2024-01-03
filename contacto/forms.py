@@ -2,7 +2,7 @@ from django import forms
 
 class FormularioContacto(forms.Form):
 
-    nombre = forms.CharField(label='Nombre', required=True)
+    name = forms.CharField(label='Name', required=True)
     email = forms.EmailField(label='Email', required=True)
-    contenido = forms.CharField(label='Contenido', widget=forms.Textarea)
+    content = forms.CharField(label='Content', widget=forms.Textarea)
 
