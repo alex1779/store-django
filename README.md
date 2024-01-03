@@ -16,17 +16,13 @@
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [Available Scripts](#available-scripts)
-    - [`npm start`](#npm-start)
-    - [`npm test`](#npm-test)
-    - [`npm run build`](#npm-run-build)
-    - [`npm run eject`](#npm-run-eject)
+    - [`python3 manage.py runserver`](#python3_manage.py_runserver)
   - [Learn More](#learn-more)
     - [Code Splitting](#code-splitting)
     - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
     - [Making a Progressive Web App](#making-a-progressive-web-app)
     - [Advanced Configuration](#advanced-configuration)
     - [Deployment](#deployment)
-    - [`npm run build` fails to minify](#npm-run-build-fails-to-minify)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -36,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Space Traveler´s Hub! <a name="about-project"></a>
+# 📖 Store example using Django with Bootstrap! <a name="about-project"></a>
 
-**Space Traveler´s Hub** we were working with the real live data from the SpaceX API. we built a web application for a company that provides commercial and scientific space travel services. The application allow users to book rockets and join selected space missions.
+**Store Using Django** This is a store application where you can buy items. We also offer services. And there is a blog page. You can contact from the form.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,9 +47,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://react.dev/">React</></li>
-    <li><a href="https://react-redux.js.org/">React Redux</a></li>
-    <li><a href="hhttps://jestjs.io/">Jest</a></li>
+    <li><a href="https://www.djangoproject.com/">Django</></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+
   </ul>
 </details>
 
