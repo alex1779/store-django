@@ -21,18 +21,18 @@
 <body>
 
     <h1 class="site-heading text-center text-white d-none d-lg-block">
-      <span class="site-heading-lower">Gestión de Pedidos New</span>
+      <span class="site-heading-lower">Store Shopping</span>
     </h1>
 
     <div style="color: white;text-align: right;margin-right: 100px;">
     
     {% if user.is_authenticated %}
     
-    Hola {{ user.username }} &nbsp; &nbsp; <a href="{% url 'cerrar_sesion' %}" style="color: white;">Cerrar Sesion</a>
+    Hello! {{ user.username }} &nbsp; &nbsp; <a href="{% url 'cerrar_sesion' %}" style="color: white;">Close Session</a>
     
     {% else %}
 
-    <a href="{% url 'loguear' %}" style="color: white;">Login</a> &nbsp; &nbsp; <a href="{% url 'Autenticacion' %}" style="color: white;">Registrate</a>
+    <a href="{% url 'loguear' %}" style="color: white;">Login</a> &nbsp; &nbsp; <a href="{% url 'Autenticacion' %}" style="color: white;">Sign In</a>
 
     {% endif %}
 
@@ -98,11 +98,11 @@
 	        </a>
 	    </p>
         <p class="m-0 mbt">
-        	<a href="sample.html" class="link">Política de privacidad</a> ·
-        	<a href="sample.html" class="link">Aviso legal</a> ·
+        	<a href="sample.html" class="link">Privacy Policy</a> ·
+        	<a href="sample.html" class="link">Legal warning</a> ·
         	<a href="sample.html" class="link">Cookies</a>
 		</p>
-        <p class="m-0 mbt1">&copy; Gestión de Pedidos 2020</p>
+        <p class="m-0 mbt1">&copy; Store Shopping 2024</p>
       </div>
 	</footer>
 
