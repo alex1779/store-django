@@ -64,7 +64,7 @@
 [Live demo](https://service-new-2mtd.onrender.com/)
 
 
-## 🚀 See a little quick explananation <a name="live-demo"> </a>
+## 🚀 See a little quick explananation below <a name="live-demo"> </a>
 
 [![Watch the video](https://img.youtube.com/vi/2n7VIuHeMi4/maxresdefault.jpg)](https://youtu.be/2n7VIuHeMi4)
 
