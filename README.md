@@ -53,12 +53,7 @@
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
 
-- **The Rockets section displays a list of all available SpaceX rockets.**
-- **Users can book each rocket by clicking the reservation button or cancel the previously made booking**
-- **The Missions section displays a list of current missions along with their brief description and participation status**
-- **There is also a button next to each mission that allows users to join the selected mission or leave the mission the user joined earlier.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +61,12 @@
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
+[![Watch the video][(https://img.youtube.com/vi/2n7VIuHeMi4/maxresdefault.jpg)](https://www.youtube.com/watch?v=2n7VIuHeMi4)
+
+
 [Live demo](https://service-new-2mtd.onrender.com/)
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
