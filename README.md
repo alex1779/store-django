@@ -59,14 +59,16 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"> </a>
+## 🚀 Live Demo Page<a name="live-demo"> </a>
 
-[Live demo](https://service-new-2mtd.onrender.com/)
+[Live demo page](https://service-new-2mtd.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 See a little quick explananation below <a name="live-demo"> </a>
+## 🚀 See a quick video with explananation below <a name="live-demo"> </a>
 
-[![Watch the video](https://img.youtube.com/vi/2n7VIuHeMi4/maxresdefault.jpg)](https://youtu.be/2n7VIuHeMi4)
+[![Watch the video!!](https://img.youtube.com/vi/2n7VIuHeMi4/maxresdefault.jpg)](https://youtu.be/2n7VIuHeMi4)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
